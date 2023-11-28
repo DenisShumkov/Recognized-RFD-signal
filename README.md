@@ -7,5 +7,5 @@ A feature of this project is the need to download the entire dataset to a hard d
 ## Authors
 - [Denis Shumkov](https://github.com/DenisShumkov)
 
-##PS:
+## PS:
 This is my first project, so any reasonable edits and recommendations on it are welcome!)
